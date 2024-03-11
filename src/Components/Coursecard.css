@@ -1,0 +1,29 @@
+.plus{
+    background-color: #22C55E;
+    color: white;
+    border: none;
+    border-radius: 0.2rem;
+    padding: 1.5%;
+    margin: 1%;
+    cursor: pointer;
+}
+
+.minus{
+
+    background-color:  #EF4444;
+    color: white;
+    border: none;
+    border-radius: 0.2rem;
+    padding: 1.5%;
+    margin: 1%;
+    cursor: pointer;
+}
+
+.hour{
+
+    font-size: 1.2rem;
+}
+
+.subject{
+    font-size: 1.4rem;
+}

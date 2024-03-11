@@ -1,0 +1,30 @@
+
+.maindiv{
+
+    width: 84%;
+    padding: 2%;
+    margin: 6%;
+}
+
+.input{
+    justify-content: space-evenly;
+    flex-direction: row;
+    display: flex;
+    width: 60%;
+    padding:1%;
+    margin: 0 18%;
+}
+
+input{
+    padding: 0.5%
+}
+
+.addbtn{
+
+    background-color:#3B82F6;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 2%;
+    border-radius: 0.5rem;
+}
